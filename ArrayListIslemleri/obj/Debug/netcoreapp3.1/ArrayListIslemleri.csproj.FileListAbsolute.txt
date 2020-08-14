@@ -1,0 +1,13 @@
+C:\Users\AKR3P\source\repos\ArrayListIslemleri\ArrayListIslemleri\bin\Debug\netcoreapp3.1\ArrayListIslemleri.exe
+C:\Users\AKR3P\source\repos\ArrayListIslemleri\ArrayListIslemleri\bin\Debug\netcoreapp3.1\ArrayListIslemleri.deps.json
+C:\Users\AKR3P\source\repos\ArrayListIslemleri\ArrayListIslemleri\bin\Debug\netcoreapp3.1\ArrayListIslemleri.runtimeconfig.json
+C:\Users\AKR3P\source\repos\ArrayListIslemleri\ArrayListIslemleri\bin\Debug\netcoreapp3.1\ArrayListIslemleri.runtimeconfig.dev.json
+C:\Users\AKR3P\source\repos\ArrayListIslemleri\ArrayListIslemleri\bin\Debug\netcoreapp3.1\ArrayListIslemleri.dll
+C:\Users\AKR3P\source\repos\ArrayListIslemleri\ArrayListIslemleri\bin\Debug\netcoreapp3.1\ArrayListIslemleri.pdb
+C:\Users\AKR3P\source\repos\ArrayListIslemleri\ArrayListIslemleri\obj\Debug\netcoreapp3.1\ArrayListIslemleri.csprojAssemblyReference.cache
+C:\Users\AKR3P\source\repos\ArrayListIslemleri\ArrayListIslemleri\obj\Debug\netcoreapp3.1\ArrayListIslemleri.AssemblyInfoInputs.cache
+C:\Users\AKR3P\source\repos\ArrayListIslemleri\ArrayListIslemleri\obj\Debug\netcoreapp3.1\ArrayListIslemleri.AssemblyInfo.cs
+C:\Users\AKR3P\source\repos\ArrayListIslemleri\ArrayListIslemleri\obj\Debug\netcoreapp3.1\ArrayListIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\AKR3P\source\repos\ArrayListIslemleri\ArrayListIslemleri\obj\Debug\netcoreapp3.1\ArrayListIslemleri.dll
+C:\Users\AKR3P\source\repos\ArrayListIslemleri\ArrayListIslemleri\obj\Debug\netcoreapp3.1\ArrayListIslemleri.pdb
+C:\Users\AKR3P\source\repos\ArrayListIslemleri\ArrayListIslemleri\obj\Debug\netcoreapp3.1\ArrayListIslemleri.genruntimeconfig.cache
